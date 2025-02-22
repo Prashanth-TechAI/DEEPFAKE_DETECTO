@@ -1,0 +1,10 @@
+Django==5.1.6
+djangorestframework==3.14.0
+drf-yasg==1.21.7
+numpy==1.26.0
+opencv-python==4.8.1.78
+Pillow==10.1.0
+librosa==0.10.1
+tensorflow==2.15.0
+torch==2.1.0
+torchvision==0.16.0
