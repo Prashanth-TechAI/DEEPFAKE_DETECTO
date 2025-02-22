@@ -128,7 +128,7 @@ This project is licensed under the MIT License.
 ## Contact
 For questions or collaborations, feel free to reach out:
 - Email: gummalaprashanth509@example.com
-- GitHub: [YourGitHubProfile](https://github.com/Prashanth-TechAI)
+- GitHub: [MyGitHubProfile](https://github.com/Prashanth-TechAI)
 
 ---
 
